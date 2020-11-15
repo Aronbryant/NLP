@@ -1,2 +1,2 @@
 # Learning
-some algorithm of machinelearning.
+other learning.
