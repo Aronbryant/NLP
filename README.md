@@ -1,2 +1,2 @@
 # Learning
-other learning.
+Learning for NLP.
